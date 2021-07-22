@@ -6,7 +6,7 @@ Option|Key|Value
 Status LED GPIO|"l"|13
 mDNS TTL|"ttl"|60
 Setup Mode Toggle Count|"z"|0
-Invoke Setup Mode|"b"|{"GPIO": 0, "type": 8}
+Invoke Setup Mode|"b"|{"GPIO": 0, "type": 5}
 
 ## Accessory 1 - Fish Feeder
 Section|Key|Value
