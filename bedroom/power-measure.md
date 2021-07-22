@@ -10,7 +10,7 @@ Status LED GPIO|"l"|2
 mDNS TTL|"ttl"|60
 Setup Mode Toggle Count|"z"|60
 Log Output|"o"|3
-Invoke Setup Mode|"b"|GPIO 0<br>Hold for 8 seconds
+Invoke Setup Mode|"b"|{"GPIO": 0, "type": 5}
 
 ## Accessory
 Section|Key|Value
