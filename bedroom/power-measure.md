@@ -17,12 +17,13 @@ Section|Key|Value
 ---|:-:|:-:
 Service Type|"t"|75
 Chip Type|"n"|1
-Chip Data|"dt"|[GPIO 5, GPIO 4, GPIO 12]
+Chip Data|"dt"|{"GPIO": 5, "GPIO": 4, "GPIO": 12}
 Reading Period|"j"|1
 Voltage Factor|"vf"|0.447090777
 Current Factor|"cf"|0.010266694
 Power Factor|"pf"|0.061005322
 
+## JSON
 ```JSON
 {
 	"c": {
