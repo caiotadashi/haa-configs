@@ -23,6 +23,7 @@ Action 0|"0"|{"GPIO": 14, "value": 1}
 Action 1|"1"|{"GPIO": 14}
 Digital Inputs|"b"|{"GPIO": 12, "type": 0}
 
+## JSON
 ```JSON
 {
 	"c":{
